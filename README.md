@@ -12,11 +12,11 @@
 5. Delete Flight
 
 for flight let it have the following properties
-`
+```
   {
     title: "flight to canada",
     time: 1pm,
     price: 26000,
     date: "26-06-2022"
   }
-`
+```
